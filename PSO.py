@@ -1,5 +1,5 @@
 #----------------------------------------------
-#Garcia Junquera Luis Eduardo
+# Rodriguez Badillo David
 #Agrupamiento usando conjuntos de particulas
 #------------------------------------------------
 

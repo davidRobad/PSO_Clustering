@@ -1,4 +1,5 @@
 #---------------------------------
+# David Rodriguez Badillo
 #Clase particle
 #---------------------------------
 import numpy as np
